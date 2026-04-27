@@ -146,7 +146,7 @@ class _HomePageState extends State<HomePage> {
         gap: 2,
         curve: Curves.easeInOut,
         duration: Duration(milliseconds: 900),
-        activeColor: AppColors.red,
+        activeColor: AppColors.purple,
         padding: const EdgeInsets.symmetric(
           horizontal: AppSizes.kspace20,
           vertical: AppSizes.kspace20,
