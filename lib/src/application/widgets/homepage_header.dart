@@ -14,7 +14,7 @@ class HomepageHeader extends StatelessWidget {
           TextSpan(
             children: [
               TextSpan(
-                text: 'Hello Arslan,\n',
+                text: 'Hello Javed,\n',
                 style: AppTextStyles.bodyMedium.copyWith(fontFamily: 'poppins'),
               ),
               TextSpan(
